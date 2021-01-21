@@ -1,6 +1,6 @@
 # Computable Functions
 
-NB: This document provides an overview to the prologue from _An Introduction
+NB: This document provides an overview to the first 4 chapters from _An Introduction
 To Recursive Function Theory_. Helpful links are inlined throughout. If you see any
 errors, feel free to open an issue or PR to report or fix them.
 
@@ -49,7 +49,7 @@ Here are the following properties of an Unlimited Register Machine:
 
 3. Inputs and outputs are restricted to natural numbers
 
-   > not a significant restriction, since operations involving other kinds of objects can be coded as operations on natural numbers
+   > Not a significant restriction, since operations involving other kinds of objects can be coded as operations on natural numbers
 
 4. Has an infinite number of registers labelled R1, R2, R3, ... each of which at any moment contains a natural number
 
